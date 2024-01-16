@@ -1,7 +1,9 @@
 .container {
   display: flex;
-  justify-content: space-between;
-  background-color: darkred;
+  justify-content: space-around;
+  background-color: blue;
+  height: 500px;
+  width: 900px;
 }
 
 .block {
