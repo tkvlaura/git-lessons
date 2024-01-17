@@ -1,14 +1,14 @@
 .container {
   display: flex;
   justify-content: space-around;
-  background-color: blue;
+  background-color: pink;
   height: 500px;
-  width: 800px;
+  width: 811px;
 }
 
 .block {
-  height: 300px;
-  width: 300px;
+  height: 310px;
+  width: 310px;
   background-color:deeppink;
 
   text-align: center;
