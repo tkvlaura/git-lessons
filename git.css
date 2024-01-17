@@ -7,19 +7,17 @@
 }
 
 .block {
-  height: 330px;
-  width: 330px;
+  height: 300px;
+  width: 300px;
   background-color: pink;
 
-  text-align: center;
 }
 
-
-
-
-
-
-
+.block {
+  height: 330px;
+  width: 330px;
+  background-color:deeppink;
+  text-align: center;}
 
 
 
