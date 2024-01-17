@@ -2,14 +2,14 @@
   display: flex;
   justify-content: space-around;
   background-color: blue;
-  height: 580px;
-  width: 860px;
+  height: 500px;
+  width: 800px;
 }
 
 .block {
-  height: 350px;
-  width: 340px;
-  background-color: pink;
+  height: 300px;
+  width: 300px;
+  background-color:deeppink;
 
   text-align: center;
 }
