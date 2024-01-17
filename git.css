@@ -2,13 +2,13 @@
   display: flex;
   justify-content: space-around;
   background-color: blue;
-  height: 580px;
-  width: 860px;
+  height: 530px;
+  width: 830px;
 }
 
 .block {
-  height: 350px;
-  width: 340px;
+  height: 330px;
+  width: 330px;
   background-color: pink;
 
   text-align: center;
