@@ -2,14 +2,16 @@
   display: flex;
   justify-content: space-around;
   background-color: blue;
-  height: 550px;
-  width: 850px;
+  height: 580px;
+  width: 860px;
 }
 
 .block {
-  height: 300px;
-  width: 300px;
-  background-color: red;
+  height: 320px;
+  width: 320px;
+<
+  background-color: pink;
+
   text-align: center;
 }
 
