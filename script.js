@@ -3,6 +3,7 @@
 let number = 100;
 number = 200;
 let massage = "bye-bye";
+massage = "bye"
 let isTall = true ;
 let vegetables = [ "tomato" , "potato"]
 
